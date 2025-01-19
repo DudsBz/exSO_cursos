@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="drivers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/drivers/protobuf-java-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/mysql-connector-java-8.0.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
